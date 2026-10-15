@@ -9,7 +9,8 @@ doctor-skills-library/
 ├── README.md
 └── docs/
     ├── 01-医生用AI必装的5个Skill推荐.md      # 抖音@阿尔法猎手 入门精选
-    └── 02-OpenClaw-Medical-Skills-869个.md   # 港大HKUDS生态开源全家桶
+    ├── 02-OpenClaw-Medical-Skills-869个.md   # 港大HKUDS生态开源全家桶
+    └── 03-医疗AI-Agent-Skills开源资源全景对比.md  # 6大项目横向对比
 ```
 
 ## 核心定位
@@ -21,7 +22,11 @@ doctor-skills-library/
 | 类别 | 数量 | 来源 |
 |------|------|------|
 | 入门精选（临床日常5件套） | 5 | 抖音@阿尔法猎手 |
-| 全家桶（临床+科研+生信） | 869 | FreedomIntelligence / OpenClaw Medical Skills |
+| OpenClaw全家桶（临床+科研+生信） | 869 | FreedomIntelligence / 港大HKUDS |
+| OpenMed（数据隐私+FHIR/OMOP） | 72 | maziyarpanahi/openmed |
+| AWS HCLS（基因组+理赔+影像） | 38 | Amazon AWS，MIT-0 |
+| MONAI医学影像（DICOM/分割/生成） | 12 | NVIDIA MedTech |
+| 学术Agent（ClinSeek/Cardiac） | 2个独立系统 | UCSC / 智源+安贞医院 |
 
 ## 已收录内容
 
